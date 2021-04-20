@@ -15,7 +15,7 @@ packaging==20.1
 pdoc3==0.7.2
 pip==20.0.2
 pluggy==0.13.1
-py==1.8.1
+py==1.10.0
 pyparsing==2.4.6
 pytest==5.3.5
 python==3.7.6
