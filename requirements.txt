@@ -13,7 +13,7 @@ more-itertools==8.2.0
 openssl==1.1.1d
 packaging==20.1
 pdoc3==0.7.2
-pip==20.0.2
+pip==21.1
 pluggy==0.13.1
 py==1.10.0
 pyparsing==2.4.6
